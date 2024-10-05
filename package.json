@@ -1,0 +1,26 @@
+{
+  "name": "devops_day1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashankar-6725/Devops_Day1.git"
+  },
+  "author": "shashankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashankar-6725/Devops_Day1/issues"
+  },
+  "homepage": "https://github.com/Shashankar-6725/Devops_Day1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
